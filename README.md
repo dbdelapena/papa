@@ -13,12 +13,10 @@ Helper tool for inDinero's git workflow. Ako ang papa mo.
   * [papa hotfix](#papa-hotfix)
     * [start](#starting-a-hotfix-branch)
     * [add](#adding-bugfix-branches-to-a-hotfix-branch)
-    * [deploy](#deploying-a-hotfix-branch-to-a-hotfix-environment)
     * [finish](#finishing-a-hotfix-branch)
   * [papa integration](#papa-integration)
     * [start](#starting-an-integration-branch)
     * [add](#adding-branches-to-an-integration-branch)
-    * [deploy](#deploying-an-integration-branch-to-an-integration-environment)
   * [papa sandbox](#papa-sandbox)
     * [generate](#papa-sandbox)
 
